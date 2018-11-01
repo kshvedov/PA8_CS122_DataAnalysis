@@ -1,0 +1,10 @@
+﻿  BST.cpp
+  DataAnalysis.cpp
+  main.cpp
+  Node.cpp
+  TransactionNode.cpp
+  Generating Code...
+c:\users\kaotixs\documents\visual studio 2017\projects\pa8_s2_k_shvedov\pa8_s2_k_shvedov\node.cpp(28): warning C4715: 'Node::getData': not all control paths return a value
+c:\users\kaotixs\documents\visual studio 2017\projects\pa8_s2_k_shvedov\pa8_s2_k_shvedov\node.cpp(37): warning C4715: 'Node::getPLeft': not all control paths return a value
+c:\users\kaotixs\documents\visual studio 2017\projects\pa8_s2_k_shvedov\pa8_s2_k_shvedov\node.cpp(46): warning C4715: 'Node::getPRight': not all control paths return a value
+  PA8_S2_K_Shvedov.vcxproj -> C:\Users\Kaotixs\Documents\Visual Studio 2017\Projects\PA8_S2_K_Shvedov\Debug\PA8_S2_K_Shvedov.exe
